@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE learningAssessment PUBLIC "-//OASIS//DTD DITA Learning Assessment//EN" "learningAssessment.dtd">
 <learningAssessment id="assessment_icn_1d1_wr">
- <title/>
+ <title><?oxy_insert_start author="George Bina" timestamp="20160404T182745+0300"?> gf fgfg
+  hfghfgh<?oxy_insert_end?></title>
  <prolog>
   <author href="http://www.scriptorium.com" scope="external" format="html">Simon Bate,
    Scriptorium</author>
@@ -12,8 +13,9 @@
  <learningAssessmentbody>
   <lcInteraction>
    <lcTrueFalse id="4">
-    <lcQuestion>The elements defined in DITA have very specific hierarchy and
-     relationships.</lcQuestion>
+    <lcQuestion>The elements defined in DITA have very
+     <?oxy_comment_start author="George Bina" timestamp="20160404T182726+0300" comment="test" id="nnj_pmr_nv"?><?oxy_comment_start author="George Bina" timestamp="20160404T182735+0300" comment="rtretre" parentID="nnj_pmr_nv" mid="1"?>specific
+     hierarchy<?oxy_comment_end mid="1"?><?oxy_comment_end?> and relationships.</lcQuestion>
     <lcAnswerOptionGroup id="lcAnswerOptionGroup_lrc_hjh_rs">
      <lcAnswerOption>
       <lcAnswerContent>True</lcAnswerContent>
@@ -29,3 +31,4 @@
   </lcInteraction>
  </learningAssessmentbody>
 </learningAssessment>
+<?oxy_options track_changes="on"?>
